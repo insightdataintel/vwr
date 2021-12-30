@@ -1,0 +1,5 @@
+export(ald, coltheart.N, hamming.distance, hamming.neighbors, ld1nn, ldknn, ldknn.odds,
+       levenshtein.damerau.distance, levenshtein.damerau.neighbors, 
+       levenshtein.distance, levenshtein.neighbors, old20)
+S3method(print, ldknn.run)
+S3method(plot, ldknn.run)
